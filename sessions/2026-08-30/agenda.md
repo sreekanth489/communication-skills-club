@@ -2,33 +2,28 @@
 
 **Time:** Sunday, 4:30 PM EST
 
-## 1. Word of the Week
+See [WEEKLY_EXPECTATIONS.md](../../WEEKLY_EXPECTATIONS.md) for the full format.
 
-This week's 5 words:
+## 1. 5 Things Round
 
-1.
-2.
-3.
-4.
-5.
+Each person's 5 items (words, idioms, phrases, or other communication-related
+items) with an example of usage:
 
-Each member explains each word's meaning and uses it in a sentence.
+| Person | 5 Items |
+|---|---|
+| | |
+| | |
 
-## 2. Topic Presentations
+## 2. Topic Presentation(s)
 
 | Presenter | Topic |
 |---|---|
-| | |
 | | |
 
 ## 3. Feedback Round
 
 Feedback for each presenter (see `feedback.md`).
 
-## 4. Next Week's Words
+## Next Week
 
-1.
-2.
-3.
-4.
-5.
+- Presenting:
