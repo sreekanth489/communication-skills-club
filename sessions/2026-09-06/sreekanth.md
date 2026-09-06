@@ -20,6 +20,7 @@
    - "He gave a captivating account of the project's turnaround, and the room was silent until he finished."
 5. **Doomscrolling** — the act of <mark style="background-color:#FFE066">obsessively or compulsively scrolling through social media feeds or negative news online, even when it is upsetting</mark>. Example: "Instead of doomscrolling on your phone before the interview, take a few deep breaths to focus your mind."
 6. **Cortisol Coded** — used to describe a visual, environment, or message that <mark style="background-color:#FFE066">instantly triggers high stress or anxiety</mark>. Example: "We need to clean up these slides; right now, the cluttered text and chaotic layout look completely cortisol coded."
+7. **Reticulated Python** — <mark style="background-color:#FFE066">the world's longest snake species</mark>, native to South and Southeast Asia; "reticulated" refers to the net-like, diamond-shaped pattern on its skin. Seen on a sign at the Philadelphia Zoo. Example: "The reticulated python at the Philly Zoo can grow over 20 feet long."
 
 ## Topic Presentation (optional)
 
