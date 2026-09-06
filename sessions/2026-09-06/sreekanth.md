@@ -5,7 +5,7 @@
 1. **Boomerang** — a word with several meanings depending on context:
    - **Original meaning (physical object)**: a curved, flat wooden tool originally created by Indigenous Australians. When thrown correctly, its aerodynamic shape causes it to fly in a large curve and return to the thrower.
 
-     ![Boomerang shape and flight path](images/boomerang-object.svg)
+     ![Wooden boomerang held by hand](images/boomerang-object.png)
    - **Idiom / verb (to backfire)**: an action or plan that comes back to affect the person who started it, usually with negative consequences. Example: "His attempt to trick his coworkers boomeranged on him when he was the one who got caught."
    - **Workplace trend ("boomerang employee")**: someone who leaves a company to work elsewhere (or retire), but later returns to work for their original employer. Example: "Our company loves hiring boomerang workers because they already understand our team culture."
    - **Social media (Instagram feature)**: a short video clip that loops forward and backward continuously to create a mini-animation. Example: "Let's take a boomerang of us clinking our glasses together before dinner!"
