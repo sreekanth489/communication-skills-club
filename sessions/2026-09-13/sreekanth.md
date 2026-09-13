@@ -9,15 +9,14 @@
 5. **Hawk-eyed Focus** — <mark style="background-color:#FFE066">extremely sharp, close attention to detail, noticing things others miss</mark>. Example: "Our QA lead has hawk-eyed focus — she caught the typo on slide 12 that the rest of us scrolled right past."
 6. **GPS Model (storytelling framework)** — a structure for telling anything as a story: <mark style="background-color:#FFE066">Goal (what you're trying to achieve), Problem (what got in the way), Solution (how you solved it)</mark>. Example, applied to a data & AI project using Databricks (DBX):
    - **Goal**: Give business users near-real-time visibility into sales trends across regions.
-   - **Problem**: Data was scattered across siloed systems, pipelines only refreshed once a day, and analysts spent most of their time reconciling numbers instead of finding insights.
+   - **Problem**: Data was scattered across siloed systems, pipelines only refreshed once a day, and analysts spent most of their time reconciling numbers — <mark style="background-color:#FFE066">cross-checking figures from different sources and fixing mismatches so they agree</mark> — instead of finding insights.
    - **Solution**: Migrated the pipelines onto Databricks, using a unified lakehouse and streaming ingestion — cutting refresh time from 24 hours to near real-time and freeing analysts to focus on insights instead of data wrangling.
 
    Usage: "When I present our DBX migration, I use the GPS model — here's the goal we had, the problem we ran into, and the solution we built."
 7. **On a Gas** — idiom for <mark style="background-color:#FFE066">working at full speed and high intensity toward a goal</mark>. Example: "We are on a gas starting from next week till Thanksgiving."
 8. **Critical Mass** — <mark style="background-color:#FFE066">the minimum number of people (or amount of something) needed for an effort to become self-sustaining or move forward</mark>. Example: "We have a critical mass joined in the call, we can get started."
-9. **Disembark** — to <mark style="background-color:#FFE066">get off a ship, aircraft, or other vehicle after arriving</mark>; seen in coverage of Trump's arrivals/departures. Example: "Trump disembarked from Air Force One and paused on the tarmac to speak with reporters."
-
-<!-- Pasted content about highest words-per-minute didn't come through in the request — see note below. Add it here once received. -->
+9. **Disembark** — to <mark style="background-color:#FFE066">get off a ship, aircraft, or other vehicle after arriving</mark>; seen in coverage of Trump's arrivals/departures. Example: "Trump disembarked from Air Force One and paused on the tarmac — the <mark style="background-color:#FFE066">paved surface of an airport where aircraft park, taxi, load, and unload</mark> — to speak with reporters."
+10. **WPM Pause Technique (Words Per Minute)** — a speaking technique where you <mark style="background-color:#FFE066">deliberately pause for 1–2 seconds between sentences</mark> to control your pacing, let key points land, and avoid rushing. Example: "Instead of rushing through my slides, I used the WPM technique — pausing a beat after every sentence — and the audience actually had time to absorb what I said."
 
 ## Resources
 
