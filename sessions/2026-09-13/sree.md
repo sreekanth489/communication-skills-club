@@ -1,4 +1,4 @@
-# Sreekanth — 2026-09-13
+# Sree — 2026-09-13
 
 ## 5 Things (words / idioms / phrases / interesting communication tips)
 
