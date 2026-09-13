@@ -15,6 +15,7 @@
 6. **Critical Mass** — <mark style="background-color:#FFE066">the minimum number of people (or amount of something) needed for an effort to become self-sustaining or move forward</mark>. Example: "We have a critical mass joined in the call, we can get started."
 7. **Disembark** — to <mark style="background-color:#FFE066">get off a ship, aircraft, or other vehicle after arriving</mark>; seen in coverage of Trump's arrivals/departures. Example: "Trump disembarked from Air Force One and paused on the tarmac — the <mark style="background-color:#FFE066">paved surface of an airport where aircraft park, taxi, load, and unload</mark> — to speak with reporters."
 8. **WPM Pause Technique (Words Per Minute)** — a speaking technique where you <mark style="background-color:#FFE066">deliberately pause for 1–2 seconds between sentences</mark> to control your pacing, let key points land, and avoid rushing. Example: "Instead of rushing through my slides, I used the WPM technique — pausing a beat after every sentence — and the audience actually had time to absorb what I said."
+9. **Terrific** — meaning <mark style="background-color:#FFE066">excellent, wonderful, extremely good</mark>; a more upbeat, memorable alternative to the default "good" when answering "how are you?". Example: at a Starbucks, when I asked the staff member taking my order how she was doing, she said "I'm terrific!" instead of the usual "good" — a small word choice that made the exchange stand out.
 
 ## Resources
 
